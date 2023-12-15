@@ -110,7 +110,7 @@ Some new Lua functions have been added:
 
 ### Examples
 
-To see official examples of how this system works, we suggest looking for any mod that has a pixel Taih in the bottom right corner of it's 'pack.png'. For names, we suggest checking out \[VS Vigor], \[VS Lucia] and \[VS Angel], as they are made by PPlus team members in some way.
+To see official examples of how this system works, we suggest looking for any mod that has a pixel Taih in the bottom right corner of it's 'pack.png'. For names, we suggest checking out [[Pop Rock Pressure](https://gamebanana.com/mods/460944)], as it was made by PPlus team members in some way.
 
 ![image](https://github.com/Starmapo/Plantoids-Plus/assets/46505816/2f0b2c54-44db-4fe1-a289-a89196ac5d54)
 
