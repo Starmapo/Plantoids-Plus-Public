@@ -1,0 +1,79 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-20,
+				60
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				90,
+				-28
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				260,
+				57
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				-70,
+				-104
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				12,
+				175
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/PPLUS_HEX",
+	"position": [
+		0,
+		70
+	],
+	"healthicon": "hex",
+	"flip_x": false,
+	"healthbar_colors": [
+		79,
+		255,
+		244
+	],
+	"camera_position": [
+		-20,
+		20
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"arrowsName":"arrowskins/HexPlantArrows"
+}

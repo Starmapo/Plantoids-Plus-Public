@@ -1,0 +1,11 @@
+Taih:#31B0D1:::Taih
+Asmodie:#A5004D:::Asmodie
+Aero:#D35BFF:week:PlantoidPWeek1:Aero
+Manifest Aero:#FF0000:song:Manifest (Aero Mix):Aero
+Feri:#FF00FA:song:Hot:Feri
+Thora:#2D0000:song:Hot:Thora
+Ski:#9769D5:song:Ski-Hee:\fSki Sings for You!
+Hex:#4ffff4:song:Startup:\fHex
+it:#37FF37:song:it:It
+Sprudge:#90D5FD:song:Numbed:Sprudge
+Fire:#FFAA00:song:Manifest (Aero Mix):Fire

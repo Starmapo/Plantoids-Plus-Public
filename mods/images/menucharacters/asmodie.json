@@ -1,0 +1,10 @@
+{
+	"idle_anim": "idle but menu",
+	"image": "ASMODIE_MENU",
+	"position": [
+		187,
+		270
+	],
+	"flipX": true,
+	"scale": 0.45
+}

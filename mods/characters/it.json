@@ -1,0 +1,79 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-2,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "It Left"
+		},
+		{
+			"offsets": [
+				-9,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "It Right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "It Idle"
+		},
+		{
+			"offsets": [
+				-3,
+				2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "It Down"
+		},
+		{
+			"offsets": [
+				-10,
+				6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "It Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/IT_PLANTOID",
+	"arrowsName": "arrowskins/itPlantArrows",
+	"position": [
+		0,
+		580
+	],
+	"healthicon": "it",
+	"flip_x": false,
+	"healthbar_colors": [
+		55,
+		255,
+		55
+	],
+	"camera_position": [
+		60,
+		-50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

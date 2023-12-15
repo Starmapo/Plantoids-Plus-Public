@@ -1,0 +1,178 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				4,
+				-61
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "IdleSadAlt"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-13,
+				-61
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "IdleSad0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				45,
+				-43
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "LeftSad0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				23,
+				-95
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DownSad0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				-40
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "UpSad0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-83,
+				-117
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "RightSad0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				90,
+				-44
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "LeftSadAlt"
+		},
+		{
+			"offsets": [
+				88,
+				-95
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "DownSadAlt"
+		},
+		{
+			"offsets": [
+				48,
+				-41
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "UpSadAlt"
+		},
+		{
+			"offsets": [
+				-61,
+				-114
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "RightSadAlt"
+		},
+		{
+			"offsets": [
+				-31,
+				-67
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "huh",
+			"loop": false,
+			"name": "Huh"
+		},
+		{
+			"offsets": [
+				-5,
+				-60
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "desperate",
+			"loop": false,
+			"name": "Desperate"
+		},
+		{
+			"offsets": [
+				92,
+				-62
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "struggling",
+			"loop": false,
+			"name": "Struggle"
+		},
+		{
+			"offsets": [
+				5,
+				-65
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "giveup",
+			"loop": false,
+			"name": "GiveUp"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/AERO_PLANTOID_SAD",
+	"position": [
+		0,
+		90
+	],
+	"healthicon": "aerosad",
+	"flip_x": false,
+	"healthbar_colors": [
+		211,
+		91,
+		255
+	],
+	"camera_position": [
+		30,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"arrowsName":"arrowskins/AeroPlantArrows"
+}

@@ -1,0 +1,5 @@
+{
+	"displayName": "Silenced Fanatic",
+	"description": "Get a full combo on Aero's Manifest remix.",
+	"unlockCondition": "song_fc:manifest-(aero-mix)"
+}

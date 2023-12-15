@@ -1,0 +1,35 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-6,
+				-84
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "GiveUp"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "aerocutscene/AeroCutscene",
+	"position": [
+		0,
+		90
+	],
+	"healthicon": "aerogiveup",
+	"flip_x": false,
+	"healthbar_colors": [
+		195,
+		84,
+		236
+	],
+	"camera_position": [
+		30,
+		100
+	],
+	"sing_duration": 9999,
+	"scale": 1,
+	"arrowsName":"arrowskins/AeroPlantArrows"
+}

@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "GameOverStart"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-90,
+				-246
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "GameOverRetry",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-90,
+				-246
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "GameOverLoop"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Ski_BOOM",
+	"position": [
+		0,
+		260
+	],
+	"healthicon": "ski",
+	"flip_x": true,
+	"healthbar_colors": [
+		141,
+		101,
+		201
+	],
+	"camera_position": [
+		-90,
+		200
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

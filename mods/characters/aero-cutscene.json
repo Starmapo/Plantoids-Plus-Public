@@ -1,0 +1,115 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				262,
+				1082
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "AeroTransformAnim",
+			"indices": [
+				54,
+				55,
+				56,
+				57,
+				58,
+				59,
+				60,
+				61,
+				62,
+				63,
+				64,
+				65,
+				66,
+				67,
+				68,
+				69,
+				70,
+				71,
+				72,
+				73,
+				74,
+				75,
+				76,
+				77,
+				78,
+				79,
+				80,
+				81
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				262,
+				1082
+			],
+			"anim": "hey-loop",
+			"fps": 24,
+			"name": "AeroTransformAnim",
+			"indices": [
+				54,
+				55,
+				56,
+				57,
+				58,
+				59,
+				60,
+				61,
+				62,
+				63,
+				64,
+				65,
+				66,
+				67,
+				68,
+				69,
+				70,
+				71,
+				72,
+				73,
+				74,
+				75,
+				76,
+				77,
+				78,
+				79,
+				80,
+				81
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				262,
+				1082
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "AeroTransformAnim",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "aerocutscene/AeroCutscene",
+	"position": [
+		0,
+		90
+	],
+	"healthicon": "aerogiveup",
+	"flip_x": false,
+	"healthbar_colors": [
+		195,
+		84,
+		236
+	],
+	"camera_position": [
+		30,
+		100
+	],
+	"sing_duration": 9999,
+	"scale": 1,
+	"arrowsName":"arrowskins/AeroPlantArrows"
+}

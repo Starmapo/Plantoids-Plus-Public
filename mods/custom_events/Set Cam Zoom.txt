@@ -1,0 +1,6 @@
+Sets the Camera's Zoom, This is based on standard stage zoom rules
+
+Value 1: New Zoom Value
+
+Value 2: If left blank the camera will zoom in/out smoothly.
+Otherwise it will instantly zoom in/out.

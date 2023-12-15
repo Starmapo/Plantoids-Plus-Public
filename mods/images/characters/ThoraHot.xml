@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ThoraHot.png">
+	<!-- Used VMan_2002's spritesheet converter. -->
+	<SubTexture name="idle0000" x="0" y="0" width="841" height="916" frameX="-789" frameY="-81" frameWidth="1668" frameHeight="1068"/>
+	<SubTexture name="singdown0000" x="845" y="0" width="811" height="865" frameX="-757" frameY="-129" frameWidth="1668" frameHeight="1068"/>
+	<SubTexture name="singleft0000" x="0" y="920" width="796" height="894" frameX="-751" frameY="-99" frameWidth="1668" frameHeight="1068"/>
+	<SubTexture name="singright0000" x="800" y="920" width="733" height="916" frameX="-797" frameY="-78" frameWidth="1668" frameHeight="1068"/>
+	<SubTexture name="singup0000" x="0" y="1818" width="731" height="945" frameX="-788" frameY="-49" frameWidth="1668" frameHeight="1068"/>
+</TextureAtlas>

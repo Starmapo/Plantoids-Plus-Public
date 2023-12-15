@@ -1,0 +1,35 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "aerocutscene/TaihFly",
+	"position": [
+		0,
+		270
+	],
+	"healthicon": "taih",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		30
+	],
+	"sing_duration": 9999,
+	"scale": 1,
+	"arrowsName":"arrowskins/TaihPlantArrows"
+}

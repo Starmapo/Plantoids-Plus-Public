@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "AeroIdle"
+		},
+		{
+			"offsets": [
+				102,
+				8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "AeroLeft"
+		},
+		{
+			"offsets": [
+				0,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "AeroDown"
+		},
+		{
+			"offsets": [
+				1,
+				24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "AeroUp"
+		},
+		{
+			"offsets": [
+				20,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "AeroRight"
+		},
+		{
+			"offsets": [
+				110,
+				-2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "AeroMissLeft"
+		},
+		{
+			"offsets": [
+				0,
+				-2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "AeroMissDown"
+		},
+		{
+			"offsets": [
+				4,
+				-10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "AeroMissRight"
+		},
+		{
+			"offsets": [
+				1,
+				24
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "AeroMissUp"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/AERO_MIRRORMATCHING",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "aeromirror",
+	"flip_x": true,
+	"healthbar_colors": [
+		211,
+		91,
+		255
+	],
+	"camera_position": [
+		-130,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,12 @@
+{
+	"idle_anim": "SpeakerIdle",
+	"image": "PPLUS_GF_MENU",
+	"image_plantoidsplus": "PPLUS_GF_MENU-plus",
+	"position": [
+		161,
+		169
+	],
+	"flipX": false,
+	"scale": 0.55,
+	"confirm_anim": "SpeakerIdle"
+}

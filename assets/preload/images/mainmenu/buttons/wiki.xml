@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="wiki.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="wiki" x="0" y="260" width="388" height="190"/>
+	<SubTexture name="wiki_selected" x="0" y="0" width="491" height="259"/>
+</TextureAtlas>

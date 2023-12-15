@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ASMODIE_MENU.png">
+	<!-- Used VMan_2002's spritesheet converter. -->
+	<SubTexture name="idle but menu0000" x="0" y="0" width="701" height="815" frameX="-1" frameY="-54" frameWidth="703" frameHeight="859"/>
+	<SubTexture name="idle but menu0001" x="702" y="0" width="703" height="815" frameX="0" frameY="-54" frameWidth="703" frameHeight="859"/>
+	<SubTexture name="idle but menu0002" x="1406" y="0" width="703" height="809" frameX="0" frameY="-60" frameWidth="703" frameHeight="859"/>
+	<SubTexture name="idle but menu0003" x="2110" y="0" width="700" height="809" frameX="-1" frameY="-60" frameWidth="703" frameHeight="859"/>
+	<SubTexture name="idle but menu0004" x="2811" y="0" width="700" height="802" frameX="-1" frameY="-67" frameWidth="703" frameHeight="859"/>
+	<SubTexture name="idle but menu0005" x="2811" y="0" width="700" height="802" frameX="-1" frameY="-67" frameWidth="703" frameHeight="859"/>
+	<SubTexture name="idle but menu0006" x="0" y="816" width="700" height="813" frameX="-1" frameY="-56" frameWidth="703" frameHeight="859"/>
+	<SubTexture name="idle but menu0007" x="0" y="816" width="700" height="813" frameX="-1" frameY="-56" frameWidth="703" frameHeight="859"/>
+	<SubTexture name="idle but menu0008" x="701" y="816" width="700" height="817" frameX="-1" frameY="-52" frameWidth="703" frameHeight="859"/>
+	<SubTexture name="idle but menu0009" x="701" y="816" width="700" height="817" frameX="-1" frameY="-52" frameWidth="703" frameHeight="859"/>
+	<SubTexture name="idle but menu0010" x="1402" y="816" width="700" height="821" frameX="-1" frameY="-48" frameWidth="703" frameHeight="859"/>
+	<SubTexture name="idle but menu0011" x="2103" y="810" width="700" height="822" frameX="-1" frameY="-47" frameWidth="703" frameHeight="859"/>
+	<SubTexture name="idle but menu0012" x="2103" y="810" width="700" height="822" frameX="-1" frameY="-47" frameWidth="703" frameHeight="859"/>
+	<SubTexture name="idle but menu0013" x="2103" y="810" width="700" height="822" frameX="-1" frameY="-47" frameWidth="703" frameHeight="859"/>
+	<SubTexture name="idle but menu0014" x="2103" y="810" width="700" height="822" frameX="-1" frameY="-47" frameWidth="703" frameHeight="859"/>
+	<SubTexture name="idle but menu0015" x="2804" y="810" width="700" height="814" frameX="-1" frameY="-55" frameWidth="703" frameHeight="859"/>
+	<SubTexture name="idle but menu0016" x="0" y="1634" width="703" height="814" frameX="0" frameY="-55" frameWidth="703" frameHeight="859"/>
+	<SubTexture name="idle but menu0017" x="704" y="1638" width="703" height="812" frameX="0" frameY="-57" frameWidth="703" frameHeight="859"/>
+	<SubTexture name="idle but menu0018" x="1408" y="1638" width="700" height="812" frameX="-1" frameY="-57" frameWidth="703" frameHeight="859"/>
+	<SubTexture name="idle but menu0019" x="2109" y="1633" width="700" height="803" frameX="-1" frameY="-66" frameWidth="703" frameHeight="859"/>
+	<SubTexture name="idle but menu0020" x="2109" y="1633" width="700" height="803" frameX="-1" frameY="-66" frameWidth="703" frameHeight="859"/>
+	<SubTexture name="idle but menu0021" x="2810" y="1625" width="700" height="812" frameX="-1" frameY="-57" frameWidth="703" frameHeight="859"/>
+	<SubTexture name="idle but menu0022" x="2810" y="1625" width="700" height="812" frameX="-1" frameY="-57" frameWidth="703" frameHeight="859"/>
+	<SubTexture name="idle but menu0023" x="0" y="2449" width="700" height="816" frameX="-1" frameY="-53" frameWidth="703" frameHeight="859"/>
+	<SubTexture name="idle but menu0024" x="0" y="2449" width="700" height="816" frameX="-1" frameY="-53" frameWidth="703" frameHeight="859"/>
+	<SubTexture name="idle but menu0025" x="701" y="2451" width="700" height="817" frameX="-1" frameY="-52" frameWidth="703" frameHeight="859"/>
+	<SubTexture name="idle but menu0026" x="1402" y="2451" width="700" height="818" frameX="-1" frameY="-51" frameWidth="703" frameHeight="859"/>
+	<SubTexture name="idle but menu0027" x="1402" y="2451" width="700" height="818" frameX="-1" frameY="-51" frameWidth="703" frameHeight="859"/>
+	<SubTexture name="idle but menu0028" x="1402" y="2451" width="700" height="818" frameX="-1" frameY="-51" frameWidth="703" frameHeight="859"/>
+	<SubTexture name="idle but menu0029" x="1402" y="2451" width="700" height="818" frameX="-1" frameY="-51" frameWidth="703" frameHeight="859"/>
+</TextureAtlas>

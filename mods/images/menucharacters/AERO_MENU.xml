@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="AERO_MENU.png">
+	<!-- Used VMan_2002's spritesheet converter. -->
+	<SubTexture name="Idle for menu0000" x="0" y="0" width="483" height="552" frameX="-20" frameY="-27" frameWidth="515" frameHeight="581"/>
+	<SubTexture name="Idle for menu0001" x="0" y="0" width="483" height="552" frameX="-20" frameY="-27" frameWidth="515" frameHeight="581"/>
+	<SubTexture name="Idle for menu0002" x="484" y="0" width="491" height="556" frameX="-14" frameY="-24" frameWidth="515" frameHeight="581"/>
+	<SubTexture name="Idle for menu0003" x="484" y="0" width="491" height="556" frameX="-14" frameY="-24" frameWidth="515" frameHeight="581"/>
+	<SubTexture name="Idle for menu0004" x="0" y="553" width="478" height="567" frameX="-16" frameY="-13" frameWidth="515" frameHeight="581"/>
+	<SubTexture name="Idle for menu0005" x="0" y="553" width="478" height="567" frameX="-16" frameY="-13" frameWidth="515" frameHeight="581"/>
+	<SubTexture name="Idle for menu0006" x="479" y="557" width="457" height="575" frameX="-28" frameY="-6" frameWidth="515" frameHeight="581"/>
+	<SubTexture name="Idle for menu0007" x="479" y="557" width="457" height="575" frameX="-28" frameY="-6" frameWidth="515" frameHeight="581"/>
+	<SubTexture name="Idle for menu0008" x="0" y="1121" width="429" height="576" frameX="-52" frameY="-4" frameWidth="515" frameHeight="581"/>
+	<SubTexture name="Idle for menu0009" x="0" y="1121" width="429" height="576" frameX="-52" frameY="-4" frameWidth="515" frameHeight="581"/>
+	<SubTexture name="Idle for menu0010" x="430" y="1133" width="429" height="572" frameX="-52" frameY="-8" frameWidth="515" frameHeight="581"/>
+	<SubTexture name="Idle for menu0011" x="430" y="1133" width="429" height="572" frameX="-52" frameY="-8" frameWidth="515" frameHeight="581"/>
+	<SubTexture name="Idle for menu0012" x="430" y="1133" width="429" height="572" frameX="-52" frameY="-8" frameWidth="515" frameHeight="581"/>
+	<SubTexture name="Idle for menu0013" x="430" y="1133" width="429" height="572" frameX="-52" frameY="-8" frameWidth="515" frameHeight="581"/>
+</TextureAtlas>

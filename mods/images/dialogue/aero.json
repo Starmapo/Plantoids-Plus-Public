@@ -1,0 +1,102 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		50
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"loop_offsets": [
+				-85,
+				50
+			],
+			"anim": "excited",
+			"idle_offsets": [
+				-92,
+				52
+			],
+			"loop_name": "Excited",
+			"idle_name": "IdleExcited"
+		},
+		{
+			"loop_name": "Happy",
+			"idle_offsets": [
+				-96,
+				51
+			],
+			"idle_name": "IdleHappy",
+			"anim": "happy",
+			"loop_offsets": [
+				-79,
+				50
+			]
+		},
+		{
+			"loop_name": "Shocked",
+			"idle_offsets": [
+				-84,
+				60
+			],
+			"idle_name": "IdleShocked",
+			"anim": "shocked",
+			"loop_offsets": [
+				-82,
+				62
+			]
+		},
+		{
+			"loop_name": "Sad",
+			"idle_offsets": [
+				-100,
+				50
+			],
+			"idle_name": "IdleSad",
+			"anim": "sad",
+			"loop_offsets": [
+				-89,
+				55
+			]
+		},
+		{
+			"loop_name": "Stressed",
+			"idle_offsets": [
+				-100,
+				50
+			],
+			"idle_name": "IdleStressed",
+			"anim": "stressed",
+			"loop_offsets": [
+				-89,
+				55
+			]
+		},
+		{
+			"loop_name": "Scream",
+			"idle_offsets": [
+				-61,
+				49
+			],
+			"idle_name": "Scream",
+			"anim": "scream",
+			"loop_offsets": [
+				-61,
+				49
+			]
+		},
+		{
+			"loop_name": "GivenUp",
+			"idle_offsets": [
+				-80,
+				33
+			],
+			"idle_name": "IdleGivenUp",
+			"anim": "givenup",
+			"loop_offsets": [
+				-80,
+				33
+			]
+		}
+	],
+	"image": "AERO_PLANTOID_DIALOGUE"
+}

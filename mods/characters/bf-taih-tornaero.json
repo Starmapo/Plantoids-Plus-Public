@@ -1,0 +1,229 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				-39,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				-39,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "MissUp"
+		},
+		{
+			"offsets": [
+				-42,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "VPose"
+		},
+		{
+			"offsets": [
+				-37,
+				-19
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "scared",
+			"indices": [],
+			"name": "Scared"
+		},
+		{
+			"offsets": [
+				75,
+				-44
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "MissLeft"
+		},
+		{
+			"offsets": [
+				75,
+				-48
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				-21,
+				-82
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				-21,
+				-74
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "MissDown"
+		},
+		{
+			"offsets": [
+				-99,
+				-18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "MissRight"
+		},
+		{
+			"offsets": [
+				-86,
+				-17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				1,
+				-9
+			],
+			"indices": [
+				10,
+				11
+			],
+			"fps": 24,
+			"anim": "idle-loop",
+			"loop": true,
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				-39,
+				-2
+			],
+			"indices": [
+				10,
+				11
+			],
+			"fps": 24,
+			"anim": "singUP-loop",
+			"loop": true,
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				-42,
+				-8
+			],
+			"indices": [
+				10,
+				11
+			],
+			"fps": 24,
+			"anim": "hey-loop",
+			"loop": true,
+			"name": "VPose"
+		},
+		{
+			"offsets": [
+				75,
+				-48
+			],
+			"indices": [
+				10,
+				11
+			],
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"loop": true,
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				-21,
+				-82
+			],
+			"indices": [
+				10,
+				11
+			],
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"loop": true,
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				-86,
+				-17
+			],
+			"indices": [
+				10,
+				11
+			],
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"loop": true,
+			"name": "Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/TAIH_PLANTOID_TORNAERO",
+	"position": [
+		0,
+		270
+	],
+	"healthicon": "taih",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"arrowsName": "arrowskins/TaihPlantArrows",
+	"camera_position": [
+		0,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

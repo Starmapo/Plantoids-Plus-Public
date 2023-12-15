@@ -1,0 +1,79 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				10,
+				-60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				45,
+				-43
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				23,
+				-95
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				2,
+				-34
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				-83,
+				-117
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/AERO_PLANTOID",
+	"position": [
+		0,
+		90
+	],
+	"healthicon": "aero",
+	"flip_x": false,
+	"healthbar_colors": [
+		211,
+		91,
+		255
+	],
+	"camera_position": [
+		30,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"arrowsName":"arrowskins/AeroPlantArrows"
+}

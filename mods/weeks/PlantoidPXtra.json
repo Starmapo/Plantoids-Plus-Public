@@ -1,0 +1,24 @@
+{
+	"songs": [
+		["Hot", "thorablush", [45, 0, 0]],
+		["Ski-Hee", "ski", [151, 105, 213]],
+		["Mirror Matching", "mirrormatching", [211, 91, 255]],
+		["Startup", "hex", [79, 255, 244]]
+	],
+
+	"weekCharacters": [
+		"",
+		"taih",
+		"asmodie"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "Wacky Skits!",
+	"weekBefore": "PlantoidPWeek1",
+	"weekName": "Plus Bonus Songs",
+	"startUnlocked": false,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false,
+	"difficulties": "hard"
+}

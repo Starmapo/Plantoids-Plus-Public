@@ -1,0 +1,91 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-51,
+				69
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				25
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				55,
+				82
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				5,
+				80
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "IdleLoop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				88
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				126
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SPRUDGE_PLANTOID",
+	"position": [
+		0,
+		60
+	],
+	"healthicon": "sprudge",
+	"flip_x": false,
+	"healthbar_colors": [
+		144,
+		213,
+		253
+	],
+	"arrowsName": null,
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"arrowsName":"arrowskins/SprudgePlantArrows"
+}

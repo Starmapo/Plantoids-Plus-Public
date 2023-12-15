@@ -1,0 +1,66 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				26,
+				27,
+				28,
+				29
+			],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "aero fling"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "aero fling"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				26,
+				27,
+				28,
+				29
+			],
+			"fps": 24,
+			"anim": "hey-loop",
+			"loop": true,
+			"name": "aero fling"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "aerocutscene/AsmodieFly",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "asmodie",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 9999,
+	"scale": 1
+}

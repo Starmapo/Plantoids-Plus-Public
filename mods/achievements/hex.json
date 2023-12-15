@@ -1,0 +1,5 @@
+{
+	"displayName": "Overprepared",
+	"description": "Get a full combo on Startup.",
+	"unlockCondition": "song_fc:startup"
+}

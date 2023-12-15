@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PlantHexStage.png">
+	<!-- Used VMan_2002's spritesheet converter. -->
+	<SubTexture name="Ad0000" x="0" y="0" width="1976" height="85" frameX="0" frameY="-639" frameWidth="1976" frameHeight="1139"/>
+	<SubTexture name="Bush0000" x="1977" y="0" width="1976" height="246" frameX="0" frameY="-457" frameWidth="1976" frameHeight="1139"/>
+	<SubTexture name="Wall0000" x="0" y="86" width="1976" height="627" frameX="0" frameY="-37" frameWidth="1976" frameHeight="1139"/>
+	<SubTexture name="Pillar0000" x="1977" y="247" width="131" height="698" frameX="0" frameY="0" frameWidth="131" frameHeight="698"/>
+	<SubTexture name="BHoop0000" x="2109" y="247" width="316" height="569" frameX="-830" frameY="-171" frameWidth="1976" frameHeight="1139"/>
+	<SubTexture name="Sun0000" x="2426" y="247" width="1090" height="623" frameX="-447" frameY="-231" frameWidth="1976" frameHeight="1139"/>
+	<SubTexture name="Sky0000" x="3517" y="247" width="99" height="570" frameX="0" frameY="0" frameWidth="99" frameHeight="570"/>
+	<SubTexture name="Bar0000" x="3617" y="247" width="99" height="106" frameX="0" frameY="-609" frameWidth="99" frameHeight="1139"/>
+	<SubTexture name="Floor0000" x="0" y="714" width="1976" height="450" frameX="0" frameY="-689" frameWidth="1976" frameHeight="1139"/>
+</TextureAtlas>

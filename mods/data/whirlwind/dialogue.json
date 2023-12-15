@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"expression": "cheerful",
+			"text": "well you tried your best didn't you! I felt quite challenged!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "taih"
+		},
+		{
+			"expression": "shocked",
+			"text": "...",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.19,
+			"portrait": "aero"
+		},
+		{
+			"expression": "huh",
+			"text": "Aero?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.08,
+			"portrait": "taih"
+		},
+		{
+			"expression": "sad",
+			"text": "nono... I can do better than that!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "aero"
+		},
+		{
+			"expression": "stressed",
+			"text": "Let's lets have another round!!! I'll beat you for sure this time...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.045,
+			"portrait": "aero"
+		},
+		{
+			"expression": "concerned",
+			"text": "if you say so...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.06,
+			"portrait": "taih"
+		}
+	]
+}

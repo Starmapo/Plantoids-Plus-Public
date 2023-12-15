@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "Menu VPose",
+	"idle_anim": "Menu Idle",
+	"position": [
+		36,
+		50
+	],
+	"scale": 0.8,
+	"image": "TAIH_MENU"
+}

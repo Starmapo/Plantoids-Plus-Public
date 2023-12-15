@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Numbed", "sprudge", [144, 213, 253]]
+	],
+
+	"weekCharacters": [
+		"sprudge",
+		"taih",
+		""
+	],
+	"weekBackground": "sprudgealley",
+
+	"storyName": "Smoked Out.",
+	"weekBefore": "PlantoidPWeek1",
+	"weekName": "VS Sprudge",
+	"startUnlocked": false,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false,
+	"difficulties": "hard,bfhard",
+	"ui_background_color": [75, 118, 142]
+}

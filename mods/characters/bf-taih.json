@@ -1,0 +1,145 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				-39,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				-39,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "MissUp"
+		},
+		{
+			"offsets": [
+				-42,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "VPose"
+		},
+		{
+			"offsets": [
+				-37,
+				-19
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "scared",
+			"indices": [],
+			"name": "Scared"
+		},
+		{
+			"offsets": [
+				75,
+				-44
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "MissLeft"
+		},
+		{
+			"offsets": [
+				75,
+				-48
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				-21,
+				-82
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				-21,
+				-74
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "MissDown"
+		},
+		{
+			"offsets": [
+				-99,
+				-18
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "MissRight"
+		},
+		{
+			"offsets": [
+				-99,
+				-17
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/TAIH_PLANTOID",
+	"position": [
+		0,
+		270
+	],
+	"healthicon": "taih",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"arrowsName": "arrowskins/TaihPlantArrows",
+	"camera_position": [
+		0,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

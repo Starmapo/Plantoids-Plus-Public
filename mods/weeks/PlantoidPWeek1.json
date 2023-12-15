@@ -1,0 +1,24 @@
+{
+	"songs": [
+		["Breeze", "aero", [211, 91, 255]],
+		["Whirlwind", "aerosad", [195, 84, 236]],
+		["Torn-Aero", "manifestaero", [0, 0, 0]]
+	],
+
+	"weekCharacters": [
+		"aero",
+		"taih",
+		"asmodie"
+	],
+	"weekBackground": "aeropark",
+
+	"storyName": "Familiar Obsession",
+	"weekBefore": "PlantoidPTutorial",
+	"weekName": "VS Aero",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false,
+	"difficulties": "hard,bfhard",
+	"ui_background_color": [110, 34, 125]
+}

@@ -1,0 +1,229 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-58,
+				13
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "MissLeft"
+		},
+		{
+			"offsets": [
+				-49,
+				-43
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "MissDown"
+		},
+		{
+			"offsets": [
+				-60,
+				58
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "MissUp"
+		},
+		{
+			"offsets": [
+				-33,
+				6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "MissRight"
+		},
+		{
+			"offsets": [
+				-58,
+				13
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "WindyLeft"
+		},
+		{
+			"offsets": [
+				-60,
+				58
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "WindyUp"
+		},
+		{
+			"offsets": [
+				-33,
+				6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "WindyRight"
+		},
+		{
+			"offsets": [
+				-49,
+				-43
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "WindyDown"
+		},
+		{
+			"offsets": [
+				-2,
+				-3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "scared",
+			"loop": true,
+			"name": "WindyScared"
+		},
+		{
+			"offsets": [
+				-25,
+				3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey",
+			"loop": false,
+			"name": "WindyVPose"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [
+				10,
+				11
+			],
+			"fps": 24,
+			"anim": "idle-loop",
+			"loop": true,
+			"name": "IdleWindy"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "IdleWindy"
+		},
+		{
+			"offsets": [
+				-25,
+				3
+			],
+			"indices": [
+				10,
+				11
+			],
+			"fps": 24,
+			"anim": "hey-loop",
+			"loop": true,
+			"name": "WindyVPose"
+		},
+		{
+			"offsets": [
+				-58,
+				13
+			],
+			"indices": [
+				10,
+				11
+			],
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"loop": true,
+			"name": "WindyLeft"
+		},
+		{
+			"offsets": [
+				-60,
+				58
+			],
+			"indices": [
+				10,
+				11
+			],
+			"fps": 24,
+			"anim": "singUP-loop",
+			"loop": true,
+			"name": "WindyUp"
+		},
+		{
+			"offsets": [
+				-33,
+				6
+			],
+			"indices": [
+				10,
+				11
+			],
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"loop": true,
+			"name": "WindyRight"
+		},
+		{
+			"offsets": [
+				-49,
+				-43
+			],
+			"indices": [
+				10,
+				11
+			],
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"loop": true,
+			"name": "WindyDown"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/PPLUS_BF_WINDY",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"arrowsName": null,
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

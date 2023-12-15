@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TaihFly.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle0000" x="1" y="1" width="372" height="444" frameX="0" frameY="-3" frameWidth="375" frameHeight="448"/>
+	<SubTexture name="Idle0001" x="1" y="1" width="372" height="444" frameX="0" frameY="-3" frameWidth="375" frameHeight="448"/>
+	<SubTexture name="Idle0002" x="374" y="1" width="375" height="447" frameX="0" frameY="0" frameWidth="375" frameHeight="448"/>
+	<SubTexture name="Idle0003" x="374" y="1" width="375" height="447" frameX="0" frameY="0" frameWidth="375" frameHeight="448"/>
+	<SubTexture name="Idle0004" x="750" y="1" width="358" height="440" frameX="-13" frameY="-7" frameWidth="375" frameHeight="448"/>
+	<SubTexture name="Idle0005" x="750" y="1" width="358" height="440" frameX="-13" frameY="-7" frameWidth="375" frameHeight="448"/>
+	<SubTexture name="Idle0006" x="1109" y="1" width="336" height="443" frameX="-21" frameY="-5" frameWidth="375" frameHeight="448"/>
+	<SubTexture name="Idle0007" x="1109" y="1" width="336" height="443" frameX="-21" frameY="-5" frameWidth="375" frameHeight="448"/>
+	<SubTexture name="Idle0008" x="1446" y="1" width="313" height="441" frameX="-40" frameY="-6" frameWidth="375" frameHeight="448"/>
+	<SubTexture name="Idle0009" x="1446" y="1" width="313" height="441" frameX="-40" frameY="-6" frameWidth="375" frameHeight="448"/>
+	<SubTexture name="Idle0010" x="1760" y="1" width="312" height="439" frameX="-41" frameY="-8" frameWidth="375" frameHeight="448"/>
+	<SubTexture name="Idle0011" x="1760" y="1" width="312" height="439" frameX="-41" frameY="-8" frameWidth="375" frameHeight="448"/>
+	<SubTexture name="Idle0012" x="2073" y="1" width="312" height="438" frameX="-41" frameY="-9" frameWidth="375" frameHeight="448"/>
+	<SubTexture name="Idle0013" x="2073" y="1" width="312" height="438" frameX="-41" frameY="-9" frameWidth="375" frameHeight="448"/>
+	<SubTexture name="aero fling0000" x="2386" y="1" width="374" height="447" frameX="0" frameY="-73" frameWidth="486" frameHeight="550"/>
+	<SubTexture name="aero fling0001" x="2761" y="1" width="373" height="447" frameX="-1" frameY="-73" frameWidth="486" frameHeight="550"/>
+	<SubTexture name="aero fling0002" x="3135" y="1" width="372" height="447" frameX="-5" frameY="-74" frameWidth="486" frameHeight="550"/>
+	<SubTexture name="aero fling0003" x="3508" y="1" width="366" height="444" frameX="-11" frameY="-77" frameWidth="486" frameHeight="550"/>
+	<SubTexture name="aero fling0004" x="1" y="449" width="360" height="442" frameX="-19" frameY="-80" frameWidth="486" frameHeight="550"/>
+	<SubTexture name="aero fling0005" x="362" y="449" width="351" height="442" frameX="-28" frameY="-80" frameWidth="486" frameHeight="550"/>
+	<SubTexture name="aero fling0006" x="714" y="449" width="352" height="462" frameX="-29" frameY="-60" frameWidth="486" frameHeight="550"/>
+	<SubTexture name="aero fling0007" x="1067" y="449" width="350" height="484" frameX="-31" frameY="-38" frameWidth="486" frameHeight="550"/>
+	<SubTexture name="aero fling0008" x="1418" y="449" width="370" height="507" frameX="-34" frameY="-16" frameWidth="486" frameHeight="550"/>
+	<SubTexture name="aero fling0009" x="1789" y="449" width="370" height="507" frameX="-34" frameY="-16" frameWidth="486" frameHeight="550"/>
+	<SubTexture name="aero fling0010" x="2160" y="449" width="396" height="473" frameX="-43" frameY="-66" frameWidth="486" frameHeight="550"/>
+	<SubTexture name="aero fling0011" x="2557" y="449" width="400" height="473" frameX="-43" frameY="-66" frameWidth="486" frameHeight="550"/>
+	<SubTexture name="aero fling0012" x="2958" y="449" width="447" height="475" frameX="-28" frameY="-66" frameWidth="486" frameHeight="550"/>
+	<SubTexture name="aero fling0013" x="3406" y="449" width="441" height="475" frameX="-28" frameY="-66" frameWidth="486" frameHeight="550"/>
+	<SubTexture name="aero fling0014" x="1" y="957" width="442" height="520" frameX="-35" frameY="-20" frameWidth="486" frameHeight="550"/>
+	<SubTexture name="aero fling0015" x="444" y="957" width="445" height="511" frameX="-35" frameY="-29" frameWidth="486" frameHeight="550"/>
+	<SubTexture name="aero fling0016" x="890" y="957" width="446" height="545" frameX="-40" frameY="-4" frameWidth="486" frameHeight="550"/>
+	<SubTexture name="aero fling0017" x="1337" y="957" width="446" height="549" frameX="-40" frameY="0" frameWidth="486" frameHeight="550"/>
+	<SubTexture name="aero fling0018" x="1784" y="957" width="439" height="533" frameX="-40" frameY="-17" frameWidth="486" frameHeight="550"/>
+	<SubTexture name="aero fling0019" x="2224" y="957" width="442" height="524" frameX="-40" frameY="-26" frameWidth="486" frameHeight="550"/>
+	<SubTexture name="aero fling0020" x="2667" y="957" width="440" height="525" frameX="-37" frameY="-25" frameWidth="486" frameHeight="550"/>
+	<SubTexture name="aero fling0021" x="3108" y="957" width="441" height="530" frameX="-37" frameY="-20" frameWidth="486" frameHeight="550"/>
+	<SubTexture name="aero fling0022" x="3550" y="957" width="448" height="524" frameX="-27" frameY="-26" frameWidth="486" frameHeight="550"/>
+	<SubTexture name="aero fling0023" x="1" y="1507" width="450" height="515" frameX="-27" frameY="-35" frameWidth="486" frameHeight="550"/>
+	<SubTexture name="aero fling0024" x="452" y="1507" width="456" height="525" frameX="-21" frameY="-25" frameWidth="486" frameHeight="550"/>
+	<SubTexture name="aero fling0025" x="909" y="1507" width="457" height="530" frameX="-21" frameY="-20" frameWidth="486" frameHeight="550"/>
+	<SubTexture name="aero fling0026" x="1367" y="1507" width="455" height="524" frameX="-20" frameY="-26" frameWidth="486" frameHeight="550"/>
+	<SubTexture name="aero fling0027" x="1823" y="1507" width="457" height="515" frameX="-20" frameY="-35" frameWidth="486" frameHeight="550"/>
+	<SubTexture name="aero fling0028" x="2281" y="1507" width="457" height="525" frameX="-20" frameY="-25" frameWidth="486" frameHeight="550"/>
+	<SubTexture name="aero fling0029" x="2739" y="1507" width="458" height="530" frameX="-20" frameY="-20" frameWidth="486" frameHeight="550"/>
+	<SubTexture name="aero fling0030" x="1367" y="1507" width="455" height="524" frameX="-20" frameY="-26" frameWidth="486" frameHeight="550"/>
+	<SubTexture name="aero fling0031" x="1823" y="1507" width="457" height="515" frameX="-20" frameY="-35" frameWidth="486" frameHeight="550"/>
+	<SubTexture name="aero fling0032" x="2281" y="1507" width="457" height="525" frameX="-20" frameY="-25" frameWidth="486" frameHeight="550"/>
+</TextureAtlas>

@@ -1,0 +1,92 @@
+{
+	"dialogue": [
+		{
+			"expression": "hatlessshocked",
+			"text": "Ahhh! Finally got my hat!",
+			"boxState": "angry",
+			"portrait": "taih",
+			"speed": 0.035,
+			"sound": ""
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "taih",
+			"boxState": "normal",
+			"expression": "haton",
+			"text": "...."
+		},
+		{
+			"expression": "prep",
+			"text": "Much better...",
+			"boxState": "normal",
+			"portrait": "taih",
+			"speed": 0.04,
+			"sound": ""
+		},
+		{
+			"expression": "scaredwindy",
+			"text": "Taih there are more serious problems than your hat.",
+			"boxState": "angry",
+			"portrait": "asmodie",
+			"speed": 0.025,
+			"sound": ""
+		},
+		{
+			"expression": "scared",
+			"text": "I know... i know...",
+			"boxState": "normal",
+			"portrait": "taih",
+			"speed": 0.06,
+			"sound": ""
+		},
+		{
+			"expression": "annoyedscaredwindy",
+			"text": "You're going to have to sing against her again...",
+			"boxState": "normal",
+			"portrait": "asmodie",
+			"speed": 0.035,
+			"sound": ""
+		},
+		{
+			"expression": "scared",
+			"text": "wh--- why!?!",
+			"boxState": "angry",
+			"portrait": "taih",
+			"speed": 0.035,
+			"sound": ""
+		},
+		{
+			"expression": "scaredwindy",
+			"text": "well you need to calm her down somehow so we land safely...",
+			"boxState": "normal",
+			"portrait": "asmodie",
+			"speed": 0.035,
+			"sound": ""
+		},
+		{
+			"expression": "annoyedscaredwindy",
+			"text": "and also you kinda caused this.",
+			"boxState": "normal",
+			"portrait": "asmodie",
+			"speed": 0.04,
+			"sound": ""
+		},
+		{
+			"expression": "worried",
+			"text": "well... I guess...",
+			"boxState": "normal",
+			"portrait": "taih",
+			"speed": 0.06,
+			"sound": ""
+		},
+		{
+			"expression": "worried",
+			"text": "Alright Aero let's calm down--",
+			"boxState": "normal",
+			"portrait": "taih",
+			"speed": 0.055,
+			"sound": ""
+		}
+	]
+}

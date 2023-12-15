@@ -1,0 +1,5 @@
+{
+	"displayName": "Perfect Study",
+	"description": "Get a Full Combo on Hot.",
+	"unlockCondition": "song_fc:hot"
+}

@@ -1,0 +1,57 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "GameOverStart",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-107,
+				-102
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "GameOverLoop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-107,
+				-102
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "GameOverRetry",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MIRROR_GAMEOVER",
+	"position": [
+		-30,
+		-20
+	],
+	"healthicon": "face",
+	"flip_x": true,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"arrowsName": null,
+	"camera_position": [
+		-60,
+		110
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,89 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		0,
+		50
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"loop_name": "Cheerful",
+			"idle_offsets": [
+				-176,
+				113
+			],
+			"idle_name": "IdleCheerful",
+			"anim": "cheerful",
+			"loop_offsets": [
+				-180,
+				120
+			]
+		},
+		{
+			"loop_name": "Huh",
+			"idle_offsets": [
+				-189,
+				103
+			],
+			"idle_name": "IdleHuh",
+			"anim": "huh",
+			"loop_offsets": [
+				-182,
+				106
+			]
+		},
+		{
+			"loop_name": "Glare",
+			"idle_offsets": [
+				-174,
+				104
+			],
+			"idle_name": "IdleGlare",
+			"anim": "glare",
+			"loop_offsets": [
+				-165,
+				103
+			]
+		},
+		{
+			"loop_name": "Worried",
+			"idle_offsets": [
+				-209,
+				113
+			],
+			"idle_name": "IdleWorried",
+			"anim": "worried",
+			"loop_offsets": [
+				-209,
+				123
+			]
+		},
+		{
+			"loop_name": "ScaredWindy",
+			"idle_offsets": [
+				-220,
+				96
+			],
+			"idle_name": "IdleScaredWindy",
+			"anim": "scaredwindy",
+			"loop_offsets": [
+				-220,
+				96
+			]
+		},
+		{
+			"loop_name": "AnnoyedScaredWindy",
+			"idle_offsets": [
+				-220,
+				96
+			],
+			"idle_name": "IdleAnnoyedScaredWindy",
+			"anim": "annoyedscaredwindy",
+			"loop_offsets": [
+				-220,
+				96
+			]
+		}
+	],
+	"image": "ASMODIE_PLANTOID_DIALOGUE"
+}

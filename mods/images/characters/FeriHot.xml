@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FeriHot.png">
+	<!-- Used VMan_2002's spritesheet converter. -->
+	<SubTexture name="idle0000" x="0" y="0" width="732" height="769" frameX="-116" frameY="-205" frameWidth="1668" frameHeight="1068"/>
+	<SubTexture name="missdown0000" x="736" y="0" width="645" height="766" frameX="-185" frameY="-209" frameWidth="1668" frameHeight="1068"/>
+	<SubTexture name="missleft0000" x="1385" y="0" width="633" height="805" frameX="-186" frameY="-161" frameWidth="1668" frameHeight="1068"/>
+	<SubTexture name="missright0000" x="0" y="773" width="674" height="696" frameX="-198" frameY="-274" frameWidth="1668" frameHeight="1068"/>
+	<SubTexture name="missup0000" x="678" y="773" width="645" height="749" frameX="-186" frameY="-214" frameWidth="1668" frameHeight="1068"/>
+	<SubTexture name="singdown0000" x="1327" y="809" width="645" height="766" frameX="-185" frameY="-209" frameWidth="1668" frameHeight="1068"/>
+	<SubTexture name="singleft0000" x="0" y="1473" width="634" height="805" frameX="-185" frameY="-161" frameWidth="1668" frameHeight="1068"/>
+	<SubTexture name="singright0000" x="638" y="1526" width="674" height="696" frameX="-198" frameY="-274" frameWidth="1668" frameHeight="1068"/>
+	<SubTexture name="singup0000" x="1316" y="1579" width="645" height="749" frameX="-186" frameY="-214" frameWidth="1668" frameHeight="1068"/>
+</TextureAtlas>

@@ -1,0 +1,5 @@
+{
+	"displayName": "Pow Pow",
+	"description": "Get a full combo on Ski-Hee.",
+	"unlockCondition": "song_fc:ski-hee"
+}

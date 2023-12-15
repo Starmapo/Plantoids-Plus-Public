@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mods.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="mods" x="0" y="307" width="528" height="230"/>
+	<SubTexture name="mods_selected" x="0" y="0" width="658" height="306"/>
+</TextureAtlas>

@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SprudgeCharacterCard.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SprudgeBoxAnim0000" x="10" y="10" width="309" height="129" frameX="-17" frameY="-161" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="SprudgeBoxAnim0001" x="10" y="10" width="309" height="129" frameX="-17" frameY="-161" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="SprudgeBoxAnim0002" x="329" y="10" width="316" height="133" frameX="-21" frameY="-159" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="SprudgeBoxAnim0003" x="329" y="10" width="316" height="133" frameX="-21" frameY="-159" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="SprudgeBoxAnim0004" x="655" y="10" width="347" height="145" frameX="-38" frameY="-153" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="SprudgeBoxAnim0005" x="655" y="10" width="347" height="145" frameX="-38" frameY="-153" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="SprudgeBoxAnim0006" x="10" y="165" width="354" height="148" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="SprudgeBoxAnim0007" x="10" y="165" width="354" height="148" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="SprudgeBoxAnim0008" x="374" y="165" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="SprudgeBoxAnim0009" x="374" y="165" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="SprudgeBoxAnim0010" x="374" y="165" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="SprudgeBoxAnim0011" x="374" y="165" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="SprudgeBoxAnim0012" x="374" y="165" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="SprudgeBoxAnim0013" x="374" y="165" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="SprudgeBoxAnim0014" x="374" y="165" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="SprudgeBoxAnim0015" x="374" y="165" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="SprudgeBoxAnim0016" x="374" y="165" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="SprudgeBoxAnim0017" x="374" y="165" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="SprudgeBoxAnim0018" x="374" y="165" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="SprudgeBoxAnim0019" x="374" y="165" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="SprudgeBoxAnim0020" x="374" y="165" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="SprudgeBoxAnim0021" x="374" y="165" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="SprudgeBoxAnim0022" x="374" y="165" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="SprudgeBoxAnim0023" x="374" y="165" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="SprudgeBoxAnim0024" x="374" y="165" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="SprudgeBoxAnim0025" x="374" y="165" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="SprudgeBoxAnim0026" x="374" y="165" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="SprudgeBoxAnim0027" x="374" y="165" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="SprudgeBoxAnim0028" x="374" y="165" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="SprudgeBoxAnim0029" x="374" y="165" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="SprudgeBoxAnim0030" x="374" y="165" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="SprudgeBoxAnim0031" x="374" y="165" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="SprudgeBoxAnim0032" x="374" y="165" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="SprudgeBoxAnim0033" x="374" y="165" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="SprudgeBoxAnim0034" x="374" y="165" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="SprudgeBoxAnim0035" x="374" y="165" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="SprudgeBoxAnim0036" x="374" y="165" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="SprudgeBoxAnim0037" x="374" y="165" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="SprudgeBoxAnim0038" x="374" y="165" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="SprudgeBoxAnim0039" x="374" y="165" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="SprudgeBoxAnim0040" x="374" y="165" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="SprudgeBoxAnim0041" x="374" y="165" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="SprudgeBoxAnim0042" x="374" y="165" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="SprudgeBoxAnim0043" x="374" y="165" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="SprudgeBoxAnim0044" x="374" y="165" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="SprudgeBoxAnim0045" x="10" y="323" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="SprudgeBoxAnim0046" x="372" y="323" width="354" height="148" frameX="-41" frameY="-147" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="SprudgeBoxAnim0047" x="372" y="323" width="354" height="148" frameX="-41" frameY="-147" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="SprudgeBoxAnim0048" x="10" y="481" width="365" height="152" frameX="-35" frameY="-138" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="SprudgeBoxAnim0049" x="10" y="481" width="365" height="152" frameX="-35" frameY="-138" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="SprudgeBoxAnim0050" x="385" y="481" width="397" height="166" frameX="-18" frameY="-86" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="SprudgeBoxAnim0051" x="385" y="481" width="397" height="166" frameX="-18" frameY="-86" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="SprudgeBoxAnim0052" x="10" y="657" width="431" height="181" frameX="0" frameY="0" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="SprudgeBoxAnim0053" x="10" y="657" width="431" height="181" frameX="0" frameY="0" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="SprudgeBoxAnim0054" x="451" y="657" width="1" height="1" frameX="-234" frameY="-330" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="SprudgeBoxAnim0055" x="451" y="657" width="1" height="1" frameX="-234" frameY="-330" frameWidth="431" frameHeight="300"/>
+</TextureAtlas>

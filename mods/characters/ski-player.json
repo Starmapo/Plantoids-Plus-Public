@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "ski flip idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				85,
+				1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "ski flip right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-84
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "ski flip down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				-9
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "ski flip left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				51
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "ski flip up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				91,
+				0
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "ski miss right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				-89
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "ski miss down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				-7
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "ski miss left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				50
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "ski miss up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				42,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "ski doot"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ski_but_player",
+	"position": [
+		60,
+		280
+	],
+	"healthicon": "ski",
+	"flip_x": false,
+	"healthbar_colors": [
+		141,
+		101,
+		201
+	],
+	"camera_position": [
+		20,
+		-10
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

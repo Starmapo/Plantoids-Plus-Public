@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["It", "it", [55, 255, 55]]
+	],
+
+	"weekCharacters": [
+		"",
+		"taih",
+		"asmodie"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "It",
+	"weekBefore": "PlantoidPWeek1",
+	"weekName": "It Song",
+	"startUnlocked": false,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false,
+	"difficulties": "it,itbf"
+}

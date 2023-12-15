@@ -1,0 +1,134 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "m ski idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "m ski loop idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-53,
+				48
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "m ski up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				173,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "m ski left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-150,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "m ski right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-3
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "m ski down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-54,
+				48
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "m ski miss up"
+		},
+		{
+			"offsets": [
+				175,
+				-45
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "m ski miss left"
+		},
+		{
+			"offsets": [
+				-152,
+				-4
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "m ski miss right"
+		},
+		{
+			"offsets": [
+				-3,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "m ski miss down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ski-manifest",
+	"position": [
+		-20,
+		120
+	],
+	"healthicon": "manifestski",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		90,
+		80
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"arrowsName":"arrowskins/ManifestPlantArrows"
+}

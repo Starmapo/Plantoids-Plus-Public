@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="itCharacterCard.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="itBoxAnim0000" x="10" y="10" width="309" height="129" frameX="-17" frameY="-161" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="itBoxAnim0001" x="10" y="10" width="309" height="129" frameX="-17" frameY="-161" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="itBoxAnim0002" x="329" y="10" width="316" height="133" frameX="-21" frameY="-159" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="itBoxAnim0003" x="329" y="10" width="316" height="133" frameX="-21" frameY="-159" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="itBoxAnim0004" x="655" y="10" width="347" height="145" frameX="-38" frameY="-153" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="itBoxAnim0005" x="655" y="10" width="347" height="145" frameX="-38" frameY="-153" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="itBoxAnim0006" x="10" y="165" width="354" height="148" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="itBoxAnim0007" x="10" y="165" width="354" height="148" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="itBoxAnim0008" x="374" y="165" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="itBoxAnim0009" x="374" y="165" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="itBoxAnim0010" x="374" y="165" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="itBoxAnim0011" x="374" y="165" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="itBoxAnim0012" x="374" y="165" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="itBoxAnim0013" x="374" y="165" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="itBoxAnim0014" x="374" y="165" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="itBoxAnim0015" x="374" y="165" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="itBoxAnim0016" x="374" y="165" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="itBoxAnim0017" x="374" y="165" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="itBoxAnim0018" x="374" y="165" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="itBoxAnim0019" x="374" y="165" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="itBoxAnim0020" x="374" y="165" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="itBoxAnim0021" x="374" y="165" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="itBoxAnim0022" x="374" y="165" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="itBoxAnim0023" x="374" y="165" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="itBoxAnim0024" x="374" y="165" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="itBoxAnim0025" x="374" y="165" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="itBoxAnim0026" x="374" y="165" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="itBoxAnim0027" x="374" y="165" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="itBoxAnim0028" x="374" y="165" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="itBoxAnim0029" x="374" y="165" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="itBoxAnim0030" x="374" y="165" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="itBoxAnim0031" x="374" y="165" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="itBoxAnim0032" x="374" y="165" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="itBoxAnim0033" x="374" y="165" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="itBoxAnim0034" x="374" y="165" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="itBoxAnim0035" x="374" y="165" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="itBoxAnim0036" x="374" y="165" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="itBoxAnim0037" x="374" y="165" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="itBoxAnim0038" x="374" y="165" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="itBoxAnim0039" x="374" y="165" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="itBoxAnim0040" x="374" y="165" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="itBoxAnim0041" x="374" y="165" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="itBoxAnim0042" x="374" y="165" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="itBoxAnim0043" x="374" y="165" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="itBoxAnim0044" x="374" y="165" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="itBoxAnim0045" x="10" y="323" width="352" height="147" frameX="-42" frameY="-152" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="itBoxAnim0046" x="372" y="323" width="354" height="148" frameX="-41" frameY="-147" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="itBoxAnim0047" x="372" y="323" width="354" height="148" frameX="-41" frameY="-147" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="itBoxAnim0048" x="10" y="481" width="365" height="152" frameX="-35" frameY="-138" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="itBoxAnim0049" x="10" y="481" width="365" height="152" frameX="-35" frameY="-138" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="itBoxAnim0050" x="385" y="481" width="397" height="166" frameX="-18" frameY="-86" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="itBoxAnim0051" x="385" y="481" width="397" height="166" frameX="-18" frameY="-86" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="itBoxAnim0052" x="10" y="657" width="431" height="181" frameX="0" frameY="0" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="itBoxAnim0053" x="10" y="657" width="431" height="181" frameX="0" frameY="0" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="itBoxAnim0054" x="451" y="657" width="1" height="1" frameX="-234" frameY="-330" frameWidth="431" frameHeight="300"/>
+	<SubTexture name="itBoxAnim0055" x="451" y="657" width="1" height="1" frameX="-234" frameY="-330" frameWidth="431" frameHeight="300"/>
+</TextureAtlas>

@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"expression": "givenup",
+			"text": "...........",
+			"boxState": "normal",
+			"portrait": "aero",
+			"speed": 0.07,
+			"sound": ""
+		},
+		{
+			"expression": "concerned",
+			"text": "well that definitely was fun but I'm worried you're getting too sad over this...",
+			"boxState": "normal",
+			"portrait": "taih",
+			"speed": 0.04,
+			"sound": ""
+		},
+		{
+			"expression": "givenup",
+			"text": "a......a......",
+			"boxState": "normal",
+			"portrait": "aero",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "worried",
+			"text": "Aero??? You there?",
+			"boxState": "normal",
+			"portrait": "taih",
+			"speed": 0.07,
+			"sound": ""
+		},
+		{
+			"expression": "worried",
+			"text": "Taih i think we should get outa here before she-",
+			"boxState": "normal",
+			"portrait": "asmodie",
+			"speed": 0.055,
+			"sound": ""
+		},
+		{
+			"expression": "scream",
+			"text": "AAAAAAAAAAAAAAAAAAAAAA\\nAAAAAAAAAAAAA---",
+			"boxState": "angry",
+			"portrait": "aero",
+			"speed": 0.025,
+			"sound": ""
+		}
+	]
+}

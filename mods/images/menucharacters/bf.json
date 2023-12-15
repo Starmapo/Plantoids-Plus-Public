@@ -1,0 +1,12 @@
+{
+	"idle_anim": "MenuAnims",
+	"image": "PPLUS_BF_MENU",
+	"image_plantoidsplus": "PPLUS_BF_MENU-plus",
+	"position": [
+		80,
+		20
+	],
+	"flipX": false,
+	"scale": 0.85,
+	"confirm_anim": "MenuHey"
+}

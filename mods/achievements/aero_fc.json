@@ -1,0 +1,5 @@
+{
+	"displayName": "Storm Queller",
+	"description": "Defeat Aero without any misses.",
+	"unlockCondition": "week_fc:PlantoidPWeek1"
+}

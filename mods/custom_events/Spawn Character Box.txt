@@ -1,0 +1,4 @@
+Value 1: Box name, character, side ("left" or "right")
+Example: "Taih,boyfriend,left"
+Value 2: Position offset for the box (x and y)
+Example: "-50,100"

@@ -1,0 +1,92 @@
+{
+	"dialogue": [
+		{
+			"expression": "cheerful",
+			"text": "What a nice relaxing afternoon in the park right Asmodie?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.03,
+			"portrait": "taih"
+		},
+		{
+			"expression": "cheerful",
+			"text": "yeah it's very calming...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "asmodie"
+		},
+		{
+			"expression": "huh",
+			"text": "Wait whose that-??",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.03,
+			"portrait": "asmodie"
+		},
+		{
+			"expression": "excited",
+			"text": "Hiii Taiiiih!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.025,
+			"portrait": "aero"
+		},
+		{
+			"expression": "glare",
+			"text": "Oh-- Hi- Aero....",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.07,
+			"portrait": "asmodie"
+		},
+		{
+			"expression": "confused",
+			"text": "what do you need Aero",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.055,
+			"portrait": "taih"
+		},
+		{
+			"expression": "happy",
+			"text": "Ok so I've been practicing a lot of singing recently to try to be as good as you!!!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.03,
+			"portrait": "aero"
+		},
+		{
+			"expression": "excited",
+			"text": "and i wanted to go against you in a battle! I'm sure I'll win!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.03,
+			"portrait": "aero"
+		},
+		{
+			"expression": "thinking",
+			"text": "Well, i suppose nothing's wrong with a fun little duel.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "taih"
+		},
+		{
+			"expression": "prep",
+			"text": "Alright...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.07,
+			"portrait": "taih"
+		},
+		{
+			"expression": "hyped",
+			"text": "YOU'RE ON!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.02,
+			"portrait": "taih"
+		}
+	]
+}

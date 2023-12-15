@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ASMODIE_PLANTOID_STAND.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle0000" x="10" y="10" width="595" height="724" frameX="-15" frameY="-30" frameWidth="614" frameHeight="754"/>
+	<SubTexture name="Idle0001" x="615" y="10" width="595" height="724" frameX="-15" frameY="-30" frameWidth="614" frameHeight="754"/>
+	<SubTexture name="Idle0002" x="1220" y="10" width="611" height="727" frameX="-3" frameY="-27" frameWidth="614" frameHeight="754"/>
+	<SubTexture name="Idle0003" x="1841" y="10" width="611" height="727" frameX="-3" frameY="-27" frameWidth="614" frameHeight="754"/>
+	<SubTexture name="Idle0004" x="2462" y="10" width="585" height="734" frameX="-8" frameY="-20" frameWidth="614" frameHeight="754"/>
+	<SubTexture name="Idle0005" x="2462" y="10" width="585" height="734" frameX="-8" frameY="-20" frameWidth="614" frameHeight="754"/>
+	<SubTexture name="Idle0006" x="3057" y="10" width="530" height="740" frameX="-33" frameY="-14" frameWidth="614" frameHeight="754"/>
+	<SubTexture name="Idle0007" x="3057" y="10" width="530" height="740" frameX="-33" frameY="-14" frameWidth="614" frameHeight="754"/>
+	<SubTexture name="Idle0008" x="10" y="760" width="505" height="750" frameX="-44" frameY="-4" frameWidth="614" frameHeight="754"/>
+	<SubTexture name="Idle0009" x="10" y="760" width="505" height="750" frameX="-44" frameY="-4" frameWidth="614" frameHeight="754"/>
+	<SubTexture name="Idle0010" x="525" y="760" width="499" height="745" frameX="-45" frameY="-9" frameWidth="614" frameHeight="754"/>
+	<SubTexture name="Idle0011" x="525" y="760" width="499" height="745" frameX="-45" frameY="-9" frameWidth="614" frameHeight="754"/>
+	<SubTexture name="Idle0012" x="525" y="760" width="499" height="745" frameX="-45" frameY="-9" frameWidth="614" frameHeight="754"/>
+	<SubTexture name="Idle0013" x="525" y="760" width="499" height="745" frameX="-45" frameY="-9" frameWidth="614" frameHeight="754"/>
+	<SubTexture name="Idle0014" x="525" y="760" width="499" height="745" frameX="-45" frameY="-9" frameWidth="614" frameHeight="754"/>
+	<SubTexture name="Idle0015" x="1034" y="760" width="579" height="740" frameX="0" frameY="-14" frameWidth="614" frameHeight="754"/>
+	<SubTexture name="Idle0016" x="1623" y="760" width="579" height="740" frameX="0" frameY="-14" frameWidth="614" frameHeight="754"/>
+	<SubTexture name="Idle0017" x="2212" y="760" width="586" height="749" frameX="-6" frameY="-5" frameWidth="614" frameHeight="754"/>
+	<SubTexture name="Idle0018" x="2808" y="760" width="586" height="749" frameX="-6" frameY="-5" frameWidth="614" frameHeight="754"/>
+	<SubTexture name="Idle0019" x="3404" y="760" width="560" height="754" frameX="-23" frameY="0" frameWidth="614" frameHeight="754"/>
+	<SubTexture name="Idle0020" x="3404" y="760" width="560" height="754" frameX="-23" frameY="0" frameWidth="614" frameHeight="754"/>
+	<SubTexture name="Idle0021" x="10" y="1524" width="518" height="751" frameX="-38" frameY="-3" frameWidth="614" frameHeight="754"/>
+	<SubTexture name="Idle0022" x="10" y="1524" width="518" height="751" frameX="-38" frameY="-3" frameWidth="614" frameHeight="754"/>
+	<SubTexture name="Idle0023" x="538" y="1524" width="509" height="747" frameX="-38" frameY="-7" frameWidth="614" frameHeight="754"/>
+	<SubTexture name="Idle0024" x="538" y="1524" width="509" height="747" frameX="-38" frameY="-7" frameWidth="614" frameHeight="754"/>
+	<SubTexture name="Idle0025" x="525" y="760" width="499" height="745" frameX="-45" frameY="-9" frameWidth="614" frameHeight="754"/>
+	<SubTexture name="Idle0026" x="525" y="760" width="499" height="745" frameX="-45" frameY="-9" frameWidth="614" frameHeight="754"/>
+	<SubTexture name="Idle0027" x="525" y="760" width="499" height="745" frameX="-45" frameY="-9" frameWidth="614" frameHeight="754"/>
+	<SubTexture name="Idle0028" x="525" y="760" width="499" height="745" frameX="-45" frameY="-9" frameWidth="614" frameHeight="754"/>
+	<SubTexture name="Idle0029" x="525" y="760" width="499" height="745" frameX="-45" frameY="-9" frameWidth="614" frameHeight="754"/>
+</TextureAtlas>

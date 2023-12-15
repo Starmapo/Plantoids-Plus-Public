@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "HandsIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				22,
+				7
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "HandsLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-10
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "HandsDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-32,
+				11
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "HandsUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-31,
+				7
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "HandsRight",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/AERO_HANDS",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "none",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-130,
+		-520
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
